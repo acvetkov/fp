@@ -1,0 +1,26 @@
+{
+  "name": "fp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acvetkov/fp.git"
+  },
+  "keywords": [],
+  "author": "Aleksey Tsvetkov <aleksey.dmitrich@gmail.com> (https://github.com/acvetkov)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acvetkov/fp/issues"
+  },
+  "homepage": "https://github.com/acvetkov/fp#readme",
+  "devDependencies": {
+    "ava": "^0.16.0"
+  },
+  "dependencies": {
+    "ramda": "^0.22.1"
+  }
+}
