@@ -1,4 +1,4 @@
 {
-   "god_autocorrect": 1,
-   "p13n": 1
+   "god_autocorrect": true,
+   "p13n": false
 }
