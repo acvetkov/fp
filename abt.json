@@ -10,9 +10,9 @@
   {
     "test-id": 51643,
     "split-from": 40,
-    "split-to": 60,
+    "split-to": 50,
     "flags": {
-      "a9t": "wfsd"
+      "a9t": 1
     }
   },
   {
