@@ -17,8 +17,8 @@
   },
   {
     "test-id": 52248,
-    "split-from": 20,
-    "split-to": 70,
+    "split-from": 70,
+    "split-to": 99,
     "flags": {
       "p13n": 2
     }
