@@ -1,5 +1,5 @@
 [
-{
+  {
     "test-id": 51642,
      "split-from": 0,
      "split-to": 10,
@@ -15,8 +15,7 @@
        "a9t": 1
      }
    },
- 
-  {
+   {
      "test-id": 52248,
      "split-from": 70,
      "split-to": 99,
